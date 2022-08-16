@@ -1,7 +1,6 @@
-### Hi there 👋
-![programmer](https://user-images.githubusercontent.com/105016806/184881274-ba1eb438-83c1-4912-9f53-256cce6f8849.gif)
-- 🌱 I’m currently learning Software Development
-- 🤔 I’m looking for help with Python
+ Hi there 👋
+ ###![jump](https://user-images.githubusercontent.com/105016806/184884646-00e3542d-19d3-45ae-9678-46f1a616f85f.gif)
+
 <!--
 **SebastianChishiri/SebastianChishiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
